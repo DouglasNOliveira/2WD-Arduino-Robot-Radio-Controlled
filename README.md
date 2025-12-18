@@ -1,3 +1,8 @@
+**MIT License**
+
+Copyright (c) 2025 Douglas Nascimento de Oliveira
+
+---
 # 🤖 Robô 2WD Radiocontrolado com Arduino, nRF24L01 e L298N
 
 Este projeto implementa um **robô móvel 2WD (duas rodas motrizes)** controlado remotamente por rádio, utilizando **Arduino**, **módulo nRF24L01**, **ponte H L298N** e um **joystick shield**.  
